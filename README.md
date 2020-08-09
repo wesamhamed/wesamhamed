@@ -1,11 +1,11 @@
 ### Hi there, I'm wesam hamed 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a [VS Code Course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on a MEAN stack!
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to draw and play guitar / drums.
 
 ### Connect with me:
 
