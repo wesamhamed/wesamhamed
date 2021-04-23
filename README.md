@@ -1,7 +1,7 @@
 ### Hi there, I'm wesam hamed 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a MEAN stack!
+- 🔭 I’m currently working on a MERN stack!
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
